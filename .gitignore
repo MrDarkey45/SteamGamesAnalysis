@@ -1,0 +1,35 @@
+# Data files (too large for git)
+data/
+*.csv
+
+# Generated outputs
+output/
+
+# Project planning docs (not for git)
+ARCHITECTURE.md
+CONVENTIONS.md
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+dist/
+build/
+*.egg
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
