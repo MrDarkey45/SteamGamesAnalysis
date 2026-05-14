@@ -22,13 +22,13 @@ As an aspiring game developer, I wanted to answer:
 ## Screenshots
 
 ### Genre trend forecast
-![Genre Trends](docs/screenshots/genre_trend_forecast.png)
+![Genre Trends](screenshots/genre_trend_forecast.png)
 
 ### Price sweet spot analysis
-![Price Analysis](docs/screenshots/price_sweetspot.png)
+![Price Analysis](screenshots/price_sweetspot.png)
 
 ### Interactive dashboard
-![Dashboard](docs/screenshots/dashboard_overview.png)
+![Dashboard](screenshots/dashboard_overview.png)
 
 ## Notebooks
 
