@@ -19,6 +19,17 @@ As an aspiring game developer, I wanted to answer:
 | Sentiment Gap | Discovered which genres have the biggest gap between hype and actual player satisfaction |
 | Indie Opportunity | Identified genres where indie developers consistently outperform AAA studios |
 
+## Screenshots
+
+### Genre trend forecast
+![Genre Trends](docs/screenshots/genre_trend_forecast.png)
+
+### Price sweet spot analysis
+![Price Analysis](docs/screenshots/price_sweetspot.png)
+
+### Interactive dashboard
+![Dashboard](docs/screenshots/dashboard_overview.png)
+
 ## Notebooks
 
 | # | Notebook | Description |
